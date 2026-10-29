@@ -1,8 +1,21 @@
+# Python environments
 .venv/
+venv/
 __pycache__/
-.pytest_cache/
 *.pyc
-data/*.csv
-outputs/*.joblib
-outputs/*.json
+
+# Operating system files
 .DS_Store
+
+# Local editor files
+.vscode/
+
+# Generated models
+artifacts/*.joblib
+
+# Local datasets
+data/*.csv
+
+# Test cache
+.pytest_cache/
+.venv-streamlit/
