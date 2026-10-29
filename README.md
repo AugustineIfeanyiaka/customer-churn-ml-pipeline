@@ -95,3 +95,12 @@ Augustine Ifeanyiaka
 Python | Machine Learning | AI Engineering
 
 This is an educational portfolio project, not a deployed telecommunications production system.
+## Live Application
+
+Try the deployed Customer Churn Prediction application:
+
+**[Launch Customer Churn Predictor](https://augustine-churn-predictor.streamlit.app)**
+
+The application predicts customer churn using a trained
+Logistic Regression pipeline with an optimized 0.30
+classification threshold.
